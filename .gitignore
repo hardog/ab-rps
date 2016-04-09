@@ -1,0 +1,5 @@
+# ignore nodejs install module
+node_modules/
+
+n.png
+.DS_Store

@@ -1,0 +1,23 @@
+{
+  "name": "ab-rps",
+  "version": "1.0.0",
+  "description": "analyze rps(request per second) with the request/concurrency larger",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">4.0.0"
+  },
+  "keywords": [
+    "ab"
+  ],
+  "dependencies": {
+    "canvas": "^1.3.12",
+    "colors": "^1.1.2",
+    "koa": "^1.2.0",
+    "underscore": "^1.8.3"
+  },
+  "author": "Frand",
+  "license": "MIT"
+}
