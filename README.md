@@ -1,7 +1,7 @@
 # ab-rps(Request per second)
 
 generate a graph image with the ab `-n` larger
-[ab RPS Graph](http://startexample.com/images/assist/20160409/n.png)
+![ab RPS Graph](http://startexample.com/images/assist/20160409/n.png)
 
 # Usage
 
