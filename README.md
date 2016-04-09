@@ -1,9 +1,9 @@
-# ab-rps(Request per second)
+## ab-rps(Request per second)
 
 generate a graph image with the ab `-n` larger
 ![ab RPS Graph](http://startexample.com/images/assist/20160409/n.png)
 
-# Usage
+## usage
 
 - open a cmd line, type `$node app` to start test app.
 - open another cmd line, type `$node analyze` to generate image
